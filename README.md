@@ -19,6 +19,10 @@ I love learning by building projects, experimenting with models, and turning dat
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 
+## 📫 Let’s Connect
+
+I’m always open to collaborations, learning, and interesting projects.  
+Feel free to reach out via my GitHub or LinkedIn!
 
 <!--
 **AayeshaF/AayeshaF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
