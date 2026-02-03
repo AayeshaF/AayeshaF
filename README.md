@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi 👋 I'm Aayesha
+I’m an AI & Data Science undergraduate passionate about exploring machine learning, data science, and applied AI. I love learning by building projects, experimenting with models, and turning data into insights that actually matter. Always curious, always improving, and always up for a new challenge!
 
 <!--
 **AayeshaF/AayeshaF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
